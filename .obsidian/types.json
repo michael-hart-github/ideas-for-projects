@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "author": "multitext",
+    "created": "datetime",
+    "QA": "checkbox",
+    "DEV": "checkbox",
+    "Staging": "checkbox",
+    "Production": "checkbox",
+    "generes": "multitext",
+    "pages": "number",
+    "Social Media": "multitext",
+    "books": "multitext"
+  }
+}

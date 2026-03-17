@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2f8f4306d8579fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c03d22abf4eb5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f53edbb736a99d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6490c66771a0fbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "67603a0b7267039c",
+        "type": "tabs",
+        "dimension": 67.67676767676768,
+        "children": [
+          {
+            "id": "14741d5e877177f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89ae8d32220c0a40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be5cfb5c89705df3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5260e61a2dbfa56c",
+        "type": "tabs",
+        "dimension": 32.323232323232325,
+        "children": [
+          {
+            "id": "c0f25dc5ec427c05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce17e88a8ec1a482",
+    "type": "split",
+    "children": [
+      {
+        "id": "440095f410a46895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8f19743f51198d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "644f935b7ac2faa3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b4da6aa6007c13c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e3f53edbb736a99d",
+  "lastOpenFiles": [
+    "Audioscrobbler clone.md",
+    "Untitled.base",
+    "Untitled",
+    "Calendar/2026-03-16.md",
+    "Untitled.canvas",
+    "0 - Fleeting/20251001-1510-1.md",
+    "0 - Fleeting/20260316-1912.md",
+    "0 - Fleeting/20260316-1911.md",
+    "0 - Fleeting/20260316-1913.md"
+  ]
+}

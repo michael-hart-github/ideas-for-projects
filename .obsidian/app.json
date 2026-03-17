@@ -1,0 +1,17 @@
+{
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "useMarkdownLinks": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "alwaysUpdateLinks": true,
+  "uriCallbacks": false,
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
